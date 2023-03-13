@@ -1,2 +1,2 @@
 # Capstone---Food-Ordering-System
-Capstone namin sa thirds year.
+Capstone namin sa third year.
